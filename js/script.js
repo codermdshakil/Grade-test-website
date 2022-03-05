@@ -68,5 +68,5 @@ else  if(numbers < 1.00){
     boardName.innerHTML =  board;
 }
 else{
-    headingTitle.innerHTML = ("Pleas! Enter Your Valid Information");    
+    headingTitle.innerHTML = ("Please! Enter Your Valid Information");    
 }
