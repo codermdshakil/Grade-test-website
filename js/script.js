@@ -10,9 +10,9 @@ let boardName = document.querySelector('#boardName');
 
 // input value 
 let personName = prompt("Enter your Name");
-let numbers = prompt("Enter your point number");
-let roll = prompt("Enter your Roll number");
-let board = prompt("Enter your Board name"); 
+let numbers = prompt("Enter your 'Point' number");
+let roll = prompt("Enter your 'Roll' number");
+let board = prompt("Enter your 'Board' name"); 
 
 
 // calculation part 
